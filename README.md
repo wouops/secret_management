@@ -1,0 +1,1 @@
+# Secret management for wouops - DevSecOps platform
